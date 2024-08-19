@@ -62,7 +62,7 @@ const AboutMe = () => {
               <div className="col-sm-offset-1 col-sm-5">
                 <div className="single-about-img">
                   <img
-                    src="./src/assets/images/about/viola.yosevi.jpg"
+                    src="assets/images/about/viola.yosevi.JPG"
                     alt="profile_image"
                   />
                   <div className="about-list-icon">

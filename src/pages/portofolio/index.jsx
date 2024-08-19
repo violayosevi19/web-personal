@@ -13,7 +13,7 @@ const Portofolio = () => {
                   <div className="col-sm-4">
                     <div className="item">
                       <img
-                        src="./src/assets/images/portfolio/CV.BRV.png"
+                        src="assets/images/portfolio/CV.BRV.png"
                         alt="portfolio image"
                       />
                       <div className="isotope-overlay">
@@ -25,7 +25,7 @@ const Portofolio = () => {
                     </div>
                     <div className="item">
                       <img
-                        src="./src/assets/images/portfolio/form-rawat-jalan.png"
+                        src="assets/images/portfolio/form-rawat-jalan.png"
                         alt="portfolio image"
                       />
                       <div className="isotope-overlay">
@@ -39,7 +39,7 @@ const Portofolio = () => {
                   <div className="col-sm-4">
                     <div className="item">
                       <img
-                        src="./src/assets/images/portfolio/posyandu.png"
+                        src="assets/images/portfolio/posyandu.png"
                         alt="portfolio image"
                       />
                       <div className="isotope-overlay">
@@ -53,7 +53,7 @@ const Portofolio = () => {
                   <div className="col-sm-4">
                     <div className="item">
                       <img
-                        src="./src/assets/images/portfolio/kodefikasi_penyakit.png"
+                        src="assets/images/portfolio/kodefikasi_penyakit.png"
                         alt="portfolio image"
                       />
                       <div className="isotope-overlay">
@@ -64,7 +64,7 @@ const Portofolio = () => {
                     </div>
                     <div className="item">
                       <img
-                        src="./src/assets/images/portfolio/surat-masuk-keluar.png"
+                        src="assets/images/portfolio/surat-masuk-keluar.png"
                         alt="portfolio image"
                       />
                       <div className="isotope-overlay">
