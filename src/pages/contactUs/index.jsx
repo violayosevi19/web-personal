@@ -131,11 +131,21 @@ const ContactUs = () => {
                     <div className="contact-add-info">
                       <div className="single-contact-add-info">
                         <h3>phone</h3>
-                        <p>+6283184206039</p>
+                        <p>
+                          <a href="https://wa.me/6283184206039" target="_blank">
+                            +6283184206039
+                          </a>
+                        </p>
                       </div>
                       <div className="single-contact-add-info">
                         <h3>email</h3>
-                        <p>viola.yosevi19@gmail.com</p>
+                        <p>
+                          <a
+                            href="mailto:viola.yosevi19@gmailcom"
+                            target="_blank">
+                            viola.yosevi19@gmail.com
+                          </a>
+                        </p>
                       </div>
                       {/* <div className="single-contact-add-info">
                         <h3>website</h3>

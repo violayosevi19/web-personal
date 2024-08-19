@@ -53,7 +53,13 @@ const AboutMe = () => {
                     <div className="col-sm-3">
                       <div className="single-about-add-info">
                         <h3>website</h3>
-                        <p>webpersonal.id</p>
+                        <p>
+                          <a
+                            href="https://mycraftweb.netlify.app/"
+                            target="_blank">
+                            mycraftweb.netlify.app
+                          </a>
+                        </p>
                       </div>
                     </div>
                   </div>
