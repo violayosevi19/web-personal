@@ -15,11 +15,11 @@ const AboutMe = () => {
                     maintenance project for 2 years.
                   </h3>
                   <p>
-                    Graduate from Padang State Polytenchnic majoring information
+                    Graduate from Padang State Polytechnic majoring information
                     technology. I have a some program languages and framework
                     such as PHP, javascript, react.js, next,js, Laravel, html
-                    and CSS. I hava been experience in organization, internship
-                    and working as a Fullstack Engineer for 2 years. I can work
+                    and CSS. I have been experience in organization, internship
+                    and working as a Fullstack Engineer for 3 years. I can work
                     together in a team, do not give up easily, good time
                     management, problem solver, and adapted in other projects. I
                     am ready to hone my skills in actively contributing to the

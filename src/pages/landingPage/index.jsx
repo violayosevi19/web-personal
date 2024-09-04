@@ -11,7 +11,7 @@ const LandingPage = () => {
                   <span>.</span>
                 </h2>
                 <p>web developer / fullstack engineer / frontend developer</p>
-                <a href="assets/doc/VIOLA YOSEVI.pdf" target="_blank">
+                <a href="assets/doc/Viola Yosevi_Resume_2024.pdf" target="_blank">
                   download resume
                 </a>
               </div>
