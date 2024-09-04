@@ -12,7 +12,7 @@ const AboutMe = () => {
                 <div className="single-about-txt">
                   <h3>
                     I am a Professional Web developer. Experience in build and
-                    maintenance project for 2 years.
+                    maintenance project for 3 years.
                   </h3>
                   <p>
                     Graduate from Padang State Polytechnic majoring information
