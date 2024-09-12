@@ -125,7 +125,7 @@ const ContactUs = () => {
                     <div className="contact-add-head">
                       <h3>viola yosevi</h3>
                       <p>
-                        web developer / fullstack develope / frontend developer
+                        web developer / fullstack developer / frontend developer
                       </p>
                     </div>
                     <div className="contact-add-info">

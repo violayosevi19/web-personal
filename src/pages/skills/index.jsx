@@ -86,7 +86,7 @@ const Skills = () => {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">Adaptation</span>
+                    <span className="progressText">Adaptation With New Tech</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div

@@ -15,17 +15,14 @@ const AboutMe = () => {
                     maintenance project for 3 years.
                   </h3>
                   <p>
-                    Graduate from Padang State Polytechnic majoring information
-                    technology. I have a some program languages and framework
-                    such as PHP, javascript, react.js, next,js, Laravel, html
-                    and CSS. I have been experience in organization, internship
-                    and working as a Fullstack Engineer for 3 years. I can work
-                    together in a team, do not give up easily, good time
-                    management, problem solver, and adapted in other projects. I
-                    am ready to hone my skills in actively contributing to the
-                    development and maintenance of projects as well as improving
-                    the performance and scalability of existing web
-                    applications.
+                  I am a graduate of Padang State Polytechnic with GPA 3.77 in Information Technology. Over the past
+                  three years, {`I've`} enhanced my skills as a Fullstack Developer, working with various programming
+                  languages and frameworks such as PHP, JavaScript, React.js, Next.js, and Laravel. My experience
+                  spans from internships to full-time positions where I contributed to projects involving web development,
+                  maintenance, and scalability improvements. I am highly adaptable, a problem solver, and thrive in team
+                  environments. Currently, I am focused on contributing to the development of innovative solutions in web
+                  applications, aiming to enhance performance and user experience while staying abreast of the latest
+                  technological advancements.
                   </p>
                   <div className="row">
                     <div className="col-sm-4">
@@ -33,7 +30,7 @@ const AboutMe = () => {
                         <h3>phone</h3>
                         <p>
                           <a href="https://wa.me/6283184206039" target="_blank">
-                            +628 3184206039
+                            +62 831 8420 6039
                           </a>
                         </p>
                       </div>

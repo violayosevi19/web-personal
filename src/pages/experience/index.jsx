@@ -31,32 +31,20 @@ const Experience = () => {
                             </h4>
                             <h5>Bandung, West Java</h5>
                             <p className="description">
-                              Develop and maintenance some web projects like :
                               <ul className="list-experience">
                                 <li>
-                                  - Clinical Trial Management System by Biofarma
-                                  using React Js and Restful API.
+                                ● Successfully developed and fixing bugs around 99% in each systems.
+
                                 </li>
                                 <li>
-                                  - Farm Management by CPI company using React
-                                  Js and Restful API.
+                                ● Enhanced system performance through optimization and effective bug fixes.
                                 </li>
                                 <li>
-                                  - Indonesian Poultry and Indonesian Aqua using
-                                  React Js and Directus CMS.
+                                ● Can explore and implementing new techs for projects.
                                 </li>
                                 <li>
-                                  - Develop and Maintenance Keris Jateng by
-                                  Indonesian Bank, Central Java using CI and
-                                  Heidi SQL as database system.
-                                </li>
-                                <li>
-                                  - Maintenance Silinda by Indonesian Bank, West
-                                  Java using React js and CI.
-                                </li>
-                                <li>
-                                  - Migrating project pos map from react js to
-                                  next
+                                ● Collaborated with cross-functional teams to implementation strategies and managed project
+                                timelines and resources efficiently
                                 </li>
                               </ul>
                             </p>
@@ -91,16 +79,18 @@ const Experience = () => {
                             </h4>
                             <h5>Bandung, West Java</h5>
                             <p className="description">
-                              Develop and maintenance some web projects like
                               <ul className="list-experience">
                                 <li>
-                                  - WWC (World Waterfowl Conference) Indonesia
-                                  maintenance project by CPI company using React
-                                  Js and Directus CMS.
+                                ● Successfully 100% completed project within the timeline, up to and including the go-live phase.
                                 </li>
                                 <li>
-                                  - Develop Inovasi 360 web using Next Js and
-                                  Restful API. ( as FE )
+                                ● Successfully implemented email delivery through Directus CMS, a new technology explored
+                                independently, while collaborating effectively with other team members.
+                                </li>
+                                <li>
+                                ● Worked closely with Product Owners to understand project requirements and with Quality
+                                Assurance teams to ensure project deliverables met quality standards and client expectations,
+                                resulting in successful project completion.
                                 </li>
                               </ul>
                             </p>
