@@ -20,9 +20,9 @@ const Skills = () => {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "90%" }}></div>
+                          style={{ width: "95%" }}></div>
                       </div>
-                      <h3>90%</h3>
+                      <h3>Mahir</h3>
                     </div>
                   </div>
                   <div className="barWrapper">
@@ -35,9 +35,9 @@ const Skills = () => {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "90%" }}></div>
+                          style={{ width: "95%" }}></div>
                       </div>
-                      <h3>90%</h3>
+                      <h3>Mahir</h3>
                     </div>
                   </div>
                   <div className="barWrapper">
@@ -50,60 +50,11 @@ const Skills = () => {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "90%" }}></div>
-                      </div>
-                      <h3>90%</h3>
-                    </div>
-                  </div>
-                  <div className="barWrapper">
-                    <span className="progressText">CI</span>
-                    <div className="single-progress-txt">
-                      <div className="progress ">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          aria-valuenow="80"
-                          aria-valuemin="10"
-                          aria-valuemax="100"
-                          style={{ width: "80%" }}></div>
-                      </div>
-                      <h3>80%</h3>
-                    </div>
-                  </div>
-                  <div className="barWrapper">
-                    <span className="progressText">Directus</span>
-                    <div className="single-progress-txt">
-                      <div className="progress ">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          aria-valuenow="85"
-                          aria-valuemin="10"
-                          aria-valuemax="100"
-                          style={{ width: "85%" }}></div>
-                      </div>
-                      <h3>85%</h3>
-                    </div>
-                  </div>
-                  <div className="barWrapper">
-                    <span className="progressText">Adaptation With New Tech</span>
-                    <div className="single-progress-txt">
-                      <div className="progress ">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          aria-valuenow="95"
-                          aria-valuemin="10"
-                          aria-valuemax="100"
                           style={{ width: "95%" }}></div>
                       </div>
-                      <h3>95%</h3>
+                      <h3>Mahir</h3>
                     </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-6">
-                <div className="single-skill-content">
+                  </div>  
                   <div className="barWrapper">
                     <span className="progressText">html 5</span>
                     <div className="single-progress-txt">
@@ -114,10 +65,10 @@ const Skills = () => {
                           aria-valuenow="97"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "97%" }}></div>
+                          style={{ width: "95%" }}></div>
                       </div>
-                      <h3>97%</h3>
-                    </div>
+                      <h3>Mahir</h3>
+                    </div> 
                   </div>
                   <div className="barWrapper">
                     <span className="progressText">css 3</span>
@@ -129,12 +80,16 @@ const Skills = () => {
                           aria-valuenow="85"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "85%" }}></div>
+                          style={{ width: "95%" }}></div>
                       </div>
-                      <h3>85%</h3>
+                      <h3>Mahir</h3>
                     </div>
                   </div>
-                  <div className="barWrapper">
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="single-skill-content">
+                <div className="barWrapper">
                     <span className="progressText">Javascript</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
@@ -144,13 +99,13 @@ const Skills = () => {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "90%" }}></div>
+                          style={{ width: "95%" }}></div>
                       </div>
-                      <h3>90%</h3>
+                      <h3>Mahir</h3>
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText"> php</span>
+                    <span className="progressText">php</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -159,9 +114,9 @@ const Skills = () => {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "90%" }}></div>
+                          style={{ width: "95%" }}></div>
                       </div>
-                      <h3>90%</h3>
+                      <h3>Mahir</h3>
                     </div>
                   </div>
                   <div className="barWrapper">
@@ -176,22 +131,37 @@ const Skills = () => {
                           aria-valuemax="100"
                           style={{ width: "95%" }}></div>
                       </div>
-                      <h3>95%</h3>
+                      <h3>Mahir</h3>
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">problem solver</span>
+                    <span className="progressText">CI</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
                           className="progress-bar"
                           role="progressbar"
-                          aria-valuenow="95"
+                          aria-valuenow="80"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={{ width: "95%" }}></div>
+                          style={{ width: "80%" }}></div>
                       </div>
-                      <h3>95%</h3>
+                      <h3>Cukup Mahir</h3>
+                    </div>
+                  </div>
+                  <div className="barWrapper">
+                    <span className="progressText">Directus</span>
+                    <div className="single-progress-txt">
+                      <div className="progress ">
+                        <div
+                          className="progress-bar"
+                          role="progressbar"
+                          aria-valuenow="85"
+                          aria-valuemin="10"
+                          aria-valuemax="100"
+                          style={{ width: "85%" }}></div>
+                      </div>
+                      <h3>Cukup Mahir</h3>
                     </div>
                   </div>
                 </div>
