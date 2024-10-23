@@ -10,9 +10,9 @@ const LandingPage = () => {
                   hi<span>,</span> i am <br /> Viola <br /> Yosevi{" "}
                   <span>.</span>
                 </h2>
-                <p>web developer / fullstack developer / frontend developer</p>
-                <a href="assets/doc/Viola Yosevi_Resume_2024.pdf" target="_blank">
-                  download resume
+                <p>Frontend Developer/ Web Developer/Full Stack Developer</p>
+                <a href="assets/doc/Viola Yosevi_CV_2024.pdf" target="_blank">
+                  download CV
                 </a>
               </div>
             </div>
